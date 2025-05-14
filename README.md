@@ -1,2 +1,2 @@
 # projeito_android
-Projeto feito no CursoEmVideo
+Projeto Site Criação do Mascote Android
