@@ -1,2 +1,2 @@
 # projeito_android
-Projeto Site Criação do Mascote Android
+Projeto Site sobre a Criação do Mascote Android
